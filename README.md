@@ -7,10 +7,13 @@ The user will be able to add expenses and deposits to their budget with or witho
 
 ## Technologies
 HTML
+
 CSS/Bootstrap
 
+
+
 ## Usage
-![About screenshot](./assets/images/about.png)
+![About screenshot]()
 
 
 ## Maintainer
